@@ -10,6 +10,10 @@
 
 Final project for [Lighthouse Labs](https://github.com/lighthouse-labs). Trying to make new friends in town? Our app helps people find friends by integrating fun games during their first interaction! Our users can register with a Facebook account and match with other users to start a chatroom. The matching process is done through an algorithm based on filters chosen by the user (age, gender, location). Users can also search descriptions to find common interests quickly. Project is currently being refactored and still under development.
 
+## Screenshots
+!["Screenshot of landing page"](https://github.com/dkimlim/icebreaker/blob/master/docs/landing_signup.gif)
+!["Screenshot of matches"](https://github.com/dkimlim/icebreaker/blob/master/docs/matches.gif)
+
 ## Getting Started
 
 1. Install dependencies for React App: `npm install`
