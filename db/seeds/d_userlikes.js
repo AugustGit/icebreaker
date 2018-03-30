@@ -15,7 +15,8 @@ exports.seed = function(knex, Promise) {
         knex('userlikes').insert({userid1: 3, userid2: 1, liked: null}),
         knex('userlikes').insert({userid1: 4, userid2: 1, liked: true}),
         knex('userlikes').insert({userid1: 8, userid2: 1, liked: null}),
-        knex('userlikes').insert({userid1: 10, userid2: 1, liked: null})
+        knex('userlikes').insert({userid1: 10, userid2: 1, liked: null}),
+        knex('userlikes').insert({userid1: 5, userid2: 1, liked: null})
       ]);
     });
 };
